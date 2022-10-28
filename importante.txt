@@ -1,2 +1,5 @@
 ¡¡¡ archivo importante para
 el proyecto de git !!!
+
+cambi realizado justo antes del
+septimo commit
