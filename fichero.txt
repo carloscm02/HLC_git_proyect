@@ -3,3 +3,4 @@ archivo que servirá como ejemplo para el proyecto de HLC
 Diseño grafico:
 * esta linea representarian algun algoritmo
 * agregando un cambio
+nueva linea de comandos
