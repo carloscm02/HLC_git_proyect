@@ -1,7 +1,7 @@
 ¡¡¡ archivo importante para
 el proyecto de git !!!
 
-cambi realizado justo antes del
+cambi realizado justo antes delghjkl
 septimo commit
 
 otro cambio para el commit 10
